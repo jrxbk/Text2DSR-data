@@ -18,12 +18,13 @@ Data: 图片注释数据；字体注释数据；banner的类别及对应的广�
 > year = {2024},
 > issn = {1003-9775},
 > doi = {10.3724/SP.J.1089.2024.19823},
-> url = {https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.19823},
+> url = {https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.19823}
 >  }
 >
 英文
 >  @article{sun2024DesignResourcesRecommendation,
 >    title = {Design Resources Recommendation Based on Word Vectors and Self-Attention Mechanisms},
+> author = {Qinghua Sun and Cheng Deng and Zhenyu Gu},
 > journal = {Journal of Computer-Aided Design & Computer Graphics},
 > volume = {36},
 > number = {1},
@@ -31,6 +32,6 @@ Data: 图片注释数据；字体注释数据；banner的类别及对应的广�
 > year = {2024},
 > issn = {1003-9775},
 > doi = {10.3724/SP.J.1089.2024.19823},
-> url = {https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.19823},
-> author = {Qinghua Sun and Cheng Deng and Zhenyu Gu}
+> url = {https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2024.19823}
+
 }
